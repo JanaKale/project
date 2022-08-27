@@ -1,0 +1,7 @@
+com\qa\keywords\Keyword.class
+com\qa\pages\LoginPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\util\PropUtility.class
+com\qa\pages\RegistrationPage.class
+com\qa\base\TestBase.class
